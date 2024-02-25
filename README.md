@@ -6,7 +6,6 @@ Hi 👋 My name is Çağdaş Güleç
 
 * 🌍  I'm based in Ankara/Turkey
 * ✉️  You can contact me at [cahoglc@gmail.com](mailto:cahoglc@gmail.com)
-* 🧠  I'm learning Unreal Engine, C++, QML
 
 ### Skills
 
