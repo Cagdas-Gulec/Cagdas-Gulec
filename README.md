@@ -1,7 +1,7 @@
 Hi 👋 My name is Çağdaş Güleç
 =============================
 
-3rd grade Computer Engineer Student
+4th grade Computer Engineer Student
 -----------------------------------
 
 * 🌍  I'm based in Ankara/Turkey
